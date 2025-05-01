@@ -19,7 +19,7 @@ This project was built to strengthen foundational ASP.NET Core concepts in a pra
 
 ## 🛠️ Technologies
 
-- ASP.NET Core MVC (.NET 6/7)
+- ASP.NET Core MVC 
 - Razor Views
 - Bootstrap via LibMan
 - C#
@@ -29,5 +29,4 @@ This project was built to strengthen foundational ASP.NET Core concepts in a pra
 ```bash
 # Clone the repo
 git clone https://github.com/HellinOzyurt/MeetingApp.git
-
 # Open in Visual Studio Code and run
